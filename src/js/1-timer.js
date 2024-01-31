@@ -12,7 +12,6 @@ const secondsRef = document.querySelector('span[data-seconds]');
 const datePickerRef = document.querySelector('#datetime-picker');
 btnRef.disabled = true;
 
-//Дата, що обрав користувач
 let userSelectedDate;
 
 //Налаштування календаря
